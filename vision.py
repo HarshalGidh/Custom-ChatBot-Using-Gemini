@@ -22,7 +22,7 @@ def get_gemini_response(input,image):
 
 st.set_page_config(page_title="Gemini Image Answer")
 
-st.header("Gemini Application")
+st.header("Image Question Answer ChatBot")
 
 input = st.text_input("Input Prompt: ",key="input") 
 
