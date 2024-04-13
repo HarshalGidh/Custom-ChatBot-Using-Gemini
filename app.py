@@ -18,7 +18,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="Question and Answer ChatBot")
 
-st.header("Gemini Application")
+st.header("Question and Answer ChatBot")
 
 input=st.text_input("Input: ",key="input")
 
