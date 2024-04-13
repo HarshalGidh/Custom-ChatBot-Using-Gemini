@@ -33,11 +33,20 @@ GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 ```bash
-# Finally run the following command
+# Run the following command to run basic chatbot 
 python app.py
 ```
 
-Now,
+```bash
+# Run the following command to run vision chatbot 
+python vision.py
+```
+```bash
+# Run the following command to run Q&A chatbot with Chat History
+python qachat.py
+```
+
+Now, opne local host to see the ChatBot
 ```bash
 open up localhost:
 ```
