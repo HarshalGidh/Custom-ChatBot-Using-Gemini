@@ -1,5 +1,14 @@
 # Custom-ChatBot-Using-Gemini
 
+## Techstack Used:
+
+- Python
+- LangChain
+- Streamlit
+- Gemini-Pro
+- Gemini-Pro-Vision
+- FAISS Vector DB
+  
 # How to run?
 ### STEPS:
 
